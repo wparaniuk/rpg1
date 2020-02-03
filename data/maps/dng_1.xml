@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.1" orientation="orthogonal" renderorder="left-up" width="11" height="11" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="1">
+ <tileset firstgid="1" name="dng" tilewidth="16" tileheight="16" tilecount="1024" columns="32">
+  <image source="C:/Users/Funfel/Documents/Visual Studio 2015/Projects/rpg 1/rpg 1/data/images/dungeon_tileset.png" trans="ff00ff" width="512" height="512"/>
+ </tileset>
+ <layer id="4" name="floor" width="11" height="11">
+  <data encoding="csv">
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,130,130,133,130,130,
+0,0,0,0,0,0,130,130,130,130,130,
+0,0,0,0,0,0,0,0,130,0,0,
+0,0,0,0,0,0,0,0,130,0,0,
+0,0,0,0,0,0,0,0,130,0,0,
+130,130,130,130,130,0,130,130,130,130,130,
+130,130,130,130,130,130,130,130,130,130,130,
+130,130,130,130,130,0,130,130,130,130,130,
+0,0,0,0,0,0,0,0,0,0,0
+</data>
+ </layer>
+ <layer id="5" name="wall" width="11" height="11">
+  <data encoding="csv">
+0,0,0,0,0,0,2,2,5,2,228,
+0,0,0,0,0,0,259,34,101,34,260,
+0,0,0,0,0,0,258,0,0,0,257,
+0,0,0,0,0,0,291,228,0,3,292,
+0,0,0,0,0,0,34,260,0,259,34,
+227,3,3,3,228,226,227,261,0,262,228,
+259,34,34,34,34,291,259,34,0,34,260,
+258,0,0,0,0,35,290,0,0,0,257,
+258,0,0,0,0,227,226,0,0,0,257,
+291,227,227,227,228,259,291,3,3,3,292,
+34,34,34,34,34,290,35,34,34,34,130
+</data>
+ </layer>
+</map>

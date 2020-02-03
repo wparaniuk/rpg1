@@ -1,0 +1,33 @@
+﻿  walkUp.cpp
+  walkRight.cpp
+  walkLeft.cpp
+  walkDown.cpp
+  Update.cpp
+  Map.cpp
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\map.cpp(38): warning C4018: '<': signed/unsigned mismatch
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\map.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\map.cpp(71): warning C4018: '>=': signed/unsigned mismatch
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\map.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\map.cpp(107): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Input.cpp
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(66): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(72): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Engine.cpp
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\engine.cpp(12): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\engine.cpp(31): warning C4244: 'initializing': conversion from 'sf::Int32' to 'float', possible loss of data
+  Draw.cpp
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\draw.cpp(17): warning C4018: '<': signed/unsigned mismatch
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\draw.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\draw.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\draw.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  Bob.cpp
+  Generating Code...
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\bob.cpp(27): warning C4715: 'Bob::getSprite': not all control paths return a value
+  rpg 1.vcxproj -> C:\Users\Funfel\Documents\Visual Studio 2015\Projects\rpg 1\Debug\rpg 1.exe

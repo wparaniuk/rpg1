@@ -1,0 +1,22 @@
+﻿  Update.cpp
+  Map.cpp
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\map.cpp(82): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\map.cpp(90): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cpp
+  Input.cpp
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(52): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\input.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Engine.cpp
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\engine.cpp(8): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\engine.cpp(9): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\funfel\documents\visual studio 2015\projects\rpg 1\rpg 1\engine.cpp(10): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Draw.cpp
+  Bob.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'X86' conflicts with target machine type 'x64'
